@@ -1,19 +1,17 @@
 
-# Python for Statistics Tutorials
+# Statistics Fundamentals : Tutorials
 
-Welcome to the Python for Statistics Tutorials repository! This collection of tutorials is designed to help you learn how to use Python for statistical analysis and data manipulation. Whether you're a beginner or an experienced programmer, these tutorials will guide you through the fundamental concepts of statistics and how to implement them using Python.
+Welcome to the `Statistics Fundamentals: Tutorials` repository! This repository provides a comprehensive guide to understanding and applying fundamental statistical concepts through hands-on examples and interactive Python tutorials.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Prerequisites](#prerequisites)
 - [Tutorials](#tutorials)
-  - [Introduction to Python for Statistics](#introduction-to-python-for-statistics)
-  - [Descriptive Statistics](#descriptive-statistics)
+   - [Descriptive Statistics](#descriptive-statistics)
   - [Probability Distributions](#probability-distributions)
   - [Hypothesis Testing](#hypothesis-testing)
   - [Regression Analysis](#regression-analysis)
-- [Contributing](#contributing)
 - [License](#license)
 - [Reference](#reference)
 
@@ -36,5 +34,5 @@ These tutorials assume basic knowledge of Python programming. If you're new to P
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Reference
-These tutorials are inspired by and reference Thomas Haslwanter's book An Introduction to Statistics Using Python. The book provides a comprehensive guide to statistical analysis with Python and is a highly recommended resource for those looking to deepen their understanding of both statistics and Python programming.
+These tutorials are inspired by and reference Thomas Haslwanter's book An Introduction to Statistics Using Python. The book provides a comprehensive guide to the fundamentals of statistics and is a highly recommended resource for those looking to deepen their understanding of both statistics and Python programming.
 
